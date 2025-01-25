@@ -42,7 +42,7 @@ The scraper can be run from the command line with the following arguments:
 
 Example command:
 
-    python scraper.py --url "https://www.trendyol.com/kadin-giyim-x-g1-c82" --start 1 --end 10 --num_threads 4 --save_path "output.csv"
+    python trendyol.py --url "https://www.trendyol.com/kadin-giyim-x-g1-c82" --start 1 --end 10 --num_threads 4 --save_path "output.csv"
 
 ## Output
 
