@@ -22,7 +22,7 @@ Additionally, you need to have the Chrome WebDriver installed and properly confi
 
 1.  **Clone the Repository**:
 ``` 
-git clone https://github.com/your-username/trendyol-scraper.git
+git clone https://github.com/Doga0/Ecommerce-Scraper.git
 cd trendyol-scraper
 ```	
     
