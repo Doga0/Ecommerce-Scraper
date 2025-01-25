@@ -23,7 +23,7 @@ Additionally, you need to have the Chrome WebDriver installed and properly confi
 1.  **Clone the Repository**:
 ``` 
 git clone https://github.com/Doga0/Ecommerce-Scraper.git
-cd trendyol-scraper
+cd Ecommerce-Scraper
 ```	
     
 2. **Run the Scraper**:
